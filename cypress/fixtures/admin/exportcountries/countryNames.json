@@ -1,0 +1,22 @@
+[
+    {
+        "value": "A",
+        "message": "Country name must be at least 2 characters"
+    },
+    {
+        "value": "1",
+        "message": "Country name must be at least 2 characters"
+    },
+    {
+        "value": "12",
+        "message": "Only alphabets are allowed for Country name"
+    },
+    {
+        "value": "1$",
+        "message": "Only alphabets are allowed for Country name"
+    },
+    {
+        "value": "A@",
+        "message": "Only alphabets are allowed for Country name"
+    }
+]
